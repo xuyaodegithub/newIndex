@@ -1,0 +1,543 @@
+header {
+    background-image: url("../cangimgs/h_back.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #fff;
+    line-height: 1;
+    text-align: center;
+    letter-spacing: 5px;
+    padding-bottom: 37px;
+    background-color: #fff;
+}
+
+.headers > img {
+    display: block;
+    width: 148px;
+    margin: 10px 0 130px;
+}
+
+.headers > h2 {
+    font-size: 112px;
+    margin-bottom: 20px;
+    font-weight: 600;
+    letter-spacing: 10px;
+    line-height: 1;
+}
+
+.headers .des {
+    font-size: 33px;
+    margin-bottom: 60px;
+}
+
+.headers .btns {
+    width: 496px;
+    line-height: 44px;
+    border: 1px solid #fff;
+    border-radius: 22px;
+    margin: 0 auto 24px;
+    font-size: 22px;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+.btns span {
+    position: relative;
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0), rgba(1, 95, 252, .6));
+}
+
+.btns span:after {
+    position: absolute;
+    content: '';
+    width: 100%;
+    height: 50%;
+    left: 0;
+    bottom: 0;
+    /*background-color: rgba(1,95,252,.6);*/
+}
+
+.b_btn {
+    letter-spacing: 0;
+    font-size: 24px;
+    background-color: rgba(1, 95, 252, 1);
+    width: 496px;
+    padding: 14px 0;
+    margin: 78px auto 0;
+    border-radius: 40px;
+    justify-content: center;
+    font-weight: 600;
+}
+
+.b_btn p:last-child {
+    color: rgba(255, 255, 255, .6);
+    margin: 0;
+    font-size: 18px;
+    font-weight: 500;
+    margin-top: 8px;
+}
+
+.b_btn i {
+    margin-left: 20px;
+}
+
+.f_sec {
+    background-image: url("../cangimgs/m9.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    line-height: 1;
+    color: #333;
+    background-color: #fff;
+}
+
+.sections > img {
+    display: block;
+    margin: 20px auto 0;
+}
+
+.sections h2 {
+    font-size: 34px;
+    line-height: 1;
+    margin: 80px 0 36px;
+    font-weight: 600;
+}
+
+.sections .dess {
+    font-size: 18px;
+    margin-bottom: 110px;
+}
+
+.sections .row {
+    font-size: 18px;
+    padding-bottom: 112px;
+}
+
+.sections .row h3 {
+    font-size: 44px;
+    font-weight: 600;
+    color: rgba(1, 95, 252, 1);
+    line-height: 1;
+    margin-bottom: 18px;
+}
+
+.pro {
+    background-color: rgba(1, 95, 252, 1);
+    padding: 112px 0 106px;
+    color: #fff;
+    text-align: center;
+}
+
+.pro h2 {
+    font-size: 35px;
+    font-weight: 600;
+    margin-bottom: 102px;
+}
+
+.pro .col-sm-2 {
+    width: 20%;
+    padding: 0 50px;
+}
+
+.pro .title {
+    font-size: 24px;
+    margin: 28px 0 16px;
+    font-weight: 600;
+}
+
+.pro .row p {
+    font-size: 16px;
+    line-height: 24px;
+    color: rgba(255, 255, 255, .7);
+    text-align: left;
+}
+
+.darks {
+    background-image: url("../cangimgs/m10.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    line-height: 1;
+}
+
+.darks h2 {
+    margin-bottom: 36px;
+}
+
+.darks .desdark {
+    font-size: 18px;
+    margin-bottom: 100px;
+}
+
+.darks .row p {
+    text-align: center;
+}
+
+.dj {
+    padding: 146px 0 170px;
+    text-align: center;
+    line-height: 1;
+}
+
+.dj h2 {
+    font-size: 36px;
+    font-weight: 600;
+    color: #333;
+    line-height: 1;
+}
+
+.dj .d1 {
+    font-size: 18px;
+    color: #333;
+    margin-bottom: 60px;
+}
+
+.dj .d2 {
+    margin: 34px 0 16px;
+}
+
+.dj .flex {
+    background-color: #F5F6FA;
+    padding: 25px 30px;
+    font-size: 16px;
+    margin: 0 auto 15px;
+    text-align: left;
+    width: 85%;
+}
+
+.dj .flex img {
+    margin-right: 15px;
+    align-self: flex-start;
+}
+
+.dj .flex strong {
+    font-size: 24px;
+    margin-bottom: 20px;
+    display: inline-block;
+    color: rgba(1, 95, 252, 1);
+}
+
+.dj .flex p {
+    line-height: 28px;
+    font-family: "Microsoft YaHei";
+    color: #666;
+}
+
+.dj .flex p span {
+    font-weight: 600;
+    color: #333;
+}
+
+.dj h1 {
+    font-size: 36px;
+    color: #333;
+    margin:155px 0 74px;
+    font-weight: 600;
+}
+.forr{
+    width: 86%;
+    margin: 0 auto;
+    color: #fff;
+}
+.forr > div{
+    padding: 80px 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-right: 20px;
+    width: 23%;
+    min-height: 280px;
+}
+.forr > div:nth-child(1){background-image: url("../cangimgs/l1.png")}
+.forr > div:nth-child(2){background-image: url("../cangimgs/l2.png")}
+.forr > div:nth-child(3){background-image: url("../cangimgs/l3.png")}
+.forr > div:nth-child(4){background-image: url("../cangimgs/l4.png");margin-right: 0}
+.forr .name{
+    font-size: 24px;
+    margin-bottom: 24px;
+    font-weight: 600;
+}
+.forr p{
+    padding: 0 40px;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: left;
+}
+.addwx{
+    background-position: center;
+    padding: 120px 0 ;
+    line-height: 1;
+    text-align: center;
+    font-size: 16px;
+    background-image: url("../cangimgs/k0.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.addwx h2{
+    font-size: 36px;
+    line-height: 1;
+    margin-bottom: 60px;
+    font-weight: 600;
+}
+.addwx img{
+    display: block;
+    margin: 0 auto 16px;
+}
+footer{
+    text-align: center;
+    background-color: rgb(25,31,43);
+    padding: 32px 0;
+    font-size: 12px;
+    color: rgba(250,250,250,.6);
+}
+footer a{
+    color: rgba(250,250,250,.6) !important;
+    margin-left: 30px;
+}
+footer a:hover{
+    color: #fff !important;
+}
+.last{
+    text-align: center;
+    font-size: 12px;
+    color: #fff;
+    line-height: 42px;
+    background-color: #010A1B;
+}
+@media screen and (max-width: 768px) {
+    header {
+        background-image: url("../cangimgs/moblie/i15.jpg");
+        padding-bottom: 0;
+    }
+
+    .headers > h2 {
+        font-size: 56px;
+        margin-bottom: 10px;
+    }
+
+    .headers .des {
+        font-size: 18px;
+        letter-spacing: 2px;
+    }
+
+    .headers > img {
+        margin: 23px auto 85px;
+        width: 103px;
+    }
+
+    .headers .btns {
+        width: 250px;
+        font-size: 16px;
+        line-height: 30px;
+        margin-bottom: 12px;
+        letter-spacing: 2px;
+    }
+
+    .b_btn {
+        width: 250px;
+        font-size: 18px;
+        margin: 57px auto -18px;
+        padding: 10px 0;
+    }
+
+    .b_btn p:last-child {
+        font-size: 13px;
+    }
+
+    .f_sec {
+        background-image: url("../cangimgs/moblie/i18.jpg");
+        margin-top: 18px;
+    }
+
+    .sections > img {
+        margin: 25px auto 0;
+        display: block;
+        height: 21px;
+    }
+
+    .sections h2 {
+        font-size: 23px;
+        margin: 35px 0 15px;
+    }
+
+    .sections .dess {
+        font-size: 12px;
+        line-height: 22px;
+        margin: 0 auto 50px;
+        width: 70%;
+    }
+
+    .sections .row {
+        font-size: 12px;
+        text-align: center;
+        padding: 0 30px 30px;
+    }
+
+    .sections .row > div {
+        margin-bottom: 35px;
+    }
+
+    .sections .row h3 {
+        font-size: 26px;
+        margin-bottom: 10px;
+    }
+
+    .pro {
+        padding: 60px 0;
+        line-height: 1;
+    }
+
+    .pro h2 {
+        font-size: 23px;
+        margin-bottom: 41px;
+    }
+
+    .pro .col-sm-2, .darks .col-sm-3 {
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        padding: 0 60px 0 80px;
+        align-items: center;
+        text-align: left;
+        margin-bottom: 30px;
+    }
+
+    .pro .col-sm-2 > div, .darks .col-sm-3 > div {
+        width: 80%;
+    }
+
+    .pro .row > div:last-child {
+        margin-bottom: 0;
+    }
+
+    .pro img {
+        margin-right: 18px;
+        align-self: flex-start;
+        width: 35px;
+        height: 35px;
+    }
+
+    .pro .title {
+        font-size: 16px;
+        margin: 0 0 6px 0;
+    }
+
+    .pro .row p {
+        font-size: 13px;
+        line-height: 20px;
+    }
+
+    .darks {
+        background-image: url("../cangimgs/moblie/i19.jpg");
+    }
+
+    .darks h2 {
+        margin-bottom: 15px
+    }
+
+    .darks .desdark {
+        font-size: 13px;
+        margin-bottom: 55px;
+    }
+
+    .darks .row p {
+        display: inline-block;
+    }
+
+    .dj {
+        padding: 60px 20px 66px;
+    }
+
+    .dj h2 {
+        font-size: 23px;
+        line-height: 34px;
+        margin: 0 auto 8px;
+        width: 80%;
+    }
+
+    .dj .d1 {
+        font-size: 13px;
+        margin-bottom: 25px;
+        line-height: 26px;
+    }
+
+    .dj .d2 {
+        margin: 0;
+    }
+
+    .dj .flex {
+        padding: 15px;
+        width: 100%;
+    }
+
+    .dj .flex img {
+        margin-right: 8px;
+        align-self: flex-start;
+        width: 35px;
+    }
+
+    .dj .flex strong {
+        font-size: 16px;
+        margin-bottom: 10px;
+    }
+
+    .dj .flex p {
+        font-size: 13px;
+        line-height: 22px;
+    }
+    .forr > div{
+        width: 48%;
+        margin-right: 10px;
+        margin-bottom: 15px;
+        padding: 40px 0;
+        min-height: 175px;
+        border-radius: 6px;
+    }
+    .forr > div p{
+        padding: 0 25px;
+        line-height: 20px;
+        font-size: 13px;
+    }
+    .forr > div:nth-child(2n){
+        margin-right: 0;
+    }
+    .forr .name{
+        font-size: 16px;
+        margin-bottom: 19px;
+    }
+    .forr{
+        width: 100%;
+    }
+    .dj h1{
+        margin: 67px 0 42px;
+        font-size: 23px;
+    }
+    .addwx{
+        background-image: url("../cangimgs/moblie/i24.jpg");
+        padding: 60px 0 80px;
+        font-size: 13px;
+    }
+    .addwx h2{
+        font-size: 22px;
+        margin-bottom: 40px;
+    }
+    .addwx img{
+       width: 130px;
+        margin-bottom: 17px;
+    }
+    footer{
+        padding: 15px 20px;
+    }
+    footer a{
+        display: inline-block;
+        margin:5px 10px 5px 0;
+    }
+    footer a:last-child{
+        margin-bottom: 0;
+    }
+}
+
+@media screen and (min-width: 768px) {
+}
+
+@media screen and (min-width: 992px) {
+}
+
+@media screen and (min-width: 1200px) {
+}

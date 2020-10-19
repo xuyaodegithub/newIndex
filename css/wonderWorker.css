@@ -121,14 +121,14 @@ header .compom h1, header .compom h3, header .compom p, header .compom h3, heade
     overflow: hidden;
     margin: 0;
     line-height: 1;
-    transition: all .5s linear;
+    /*transition: all .5s linear;*/
     /*text-align: center;*/
     /*display: inline-block;*/
 }
-header .compom h1:hover{
-    transform: translateY(-10px);
-    box-shadow: 0 0 10px #fff inset;
-}
+/*header .compom h1:hover{*/
+/*    transform: translateY(-10px);*/
+/*    box-shadow: 0 0 10px #fff inset;*/
+/*}*/
 
 header .compom span, header .compom span {
     position: relative;
@@ -623,7 +623,7 @@ footer{
 /*@media (min-width: 576px) {*/
 
 /*}*/
-@media (max-width: 768px) {
+@media screen and (max-width: 768px) {
     header .nav.active{
         height:60px;
     }
@@ -638,7 +638,7 @@ footer{
 
 }
 
-@media (max-width: 992px) {
+@media  screen and (max-width: 992px) {
     header .compom h1 {
         font-size: 60px;
     }
@@ -656,7 +656,7 @@ footer{
     }
 }
 
-@media (min-width: 992px) {
+@media  screen and (min-width: 992px) {
     header .compom h1 {
         font-size: 80px;
     }
@@ -667,7 +667,7 @@ footer{
     }
 }
 
-@media (min-width: 1200px) {
+@media  screen and (min-width: 1200px) {
     header .compom h1 {
         font-size: 100px;
     }
